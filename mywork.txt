@@ -1,3 +1,5 @@
 A test file that is there and can be modified by you.
 
 1. Test for checking that everything works fine from the server.
+
+2. Test for using branches.
